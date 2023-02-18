@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![MasterHead](https://te.legra.ph/file/c4990c6ebf5d85d056ef3.jpg)
-
 <h1 align="center">Hi 👋, I'm Sᴜᴍɪᴛ Pʀᴀᴊᴀᴘᴀᴛɪ</h1>
-
 <h3 align="center">✨ ƝƠƠƁ ЄƊƖƬƠƦ ✨</h3>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit0481&label=Profile%20views&color=0e75b6&style=flat" alt="sumit0481" /> </p>
@@ -42,18 +39,16 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact 👅 🤤 𝐈 ∆𝐌 𝐘𝐨𝐮𝐫 𝐆𝐟'𝐬 𝐗 👅
 
-<h3 align="left">Connect with me:</h3>
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-<p align="left">
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Pasha Spotify" width="75%" />](https://open.spotify.com/user/31cvivifzz4v6bxrc6dgnkrojjaa?si=fNd_dgVUSwSp2VXEVNdYHQ)
 
-<a href="https://twitter.com/01xvenomx01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="01xvenomx01" height="30" width="40" /></a>
+<h1> <img src="https://te.legra.ph/file/ed4ba2be39c7f5097ec31.png" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-<a href="https://www.youtube.com/c/og venom editz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="og venom editz" height="30" width="40" /></a>
 
-</p>
+[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://t.me/KING_VENOM_01) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/SUMIT0481) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/ogvenomeditz) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://www.instagram.com/01x__venom__x01)
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit0481&show_icons=true&locale=en&layout=compact" alt="sumit0481" /></p>
