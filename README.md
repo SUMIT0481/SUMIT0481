@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SUMIT0481/SUMIT0481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
