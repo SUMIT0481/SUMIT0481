@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Pasha Spotify" width="75%" />](https://open.spotify.com/user/31cvivifzz4v6bxrc6dgnkrojjaa?si=fNd_dgVUSwSp2VXEVNdYHQ)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Venom Spotify" width="75%" />](https://open.spotify.com/user/31cvivifzz4v6bxrc6dgnkrojjaa?si=fNd_dgVUSwSp2VXEVNdYHQ)
 
 <h1> <img src="https://te.legra.ph/file/ed4ba2be39c7f5097ec31.png" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
