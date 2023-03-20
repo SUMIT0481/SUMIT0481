@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m Always Available [Hᴇʀ3 ❣️ ʙᴀʙʏ ❣️](https://t.me/ITZ_ME_YOUR_VENOM)
 
-- 👨‍💻 All of my projects are available at [https://github.com/VENOM95823358158](https://github.com/VENOM95823358158)
+- 👨‍💻 All of my projects are available at [https://github.com/VENOM95823358158](https://github.com/OG-VENOM)
 
 - 📝 I regularly write My felling [https://t.me/OGVENOMEDITZ](https://t.me/OGVENOMEDITZ)
 
