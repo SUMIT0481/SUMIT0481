@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h3 align="center">✨ ƝƠƠƁ ЄƊƖƬƠƦ ✨</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit0481&label=Profile%20views&color=0e75b6&style=flat" alt="sumit0481" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SUMIT0481&label=Profile%20views&color=0e75b6&style=flat" alt="SUMIT0481" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit0481" alt="sumit0481" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SUMIT0481" alt="SUMIT0481" /></a> </p>
 
-- 🔭 I’m currently working on [Yᴏᴜᴛᴜʙᴇ & ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛs](https://youtube.com/@OGVENOMEDITZ)
+- 🔭 I’m currently working on [Yᴏᴜᴛᴜʙᴇ & ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛs](https://youtube.com/@OGVENOMEDITS)
 
 - 🌱 I’m currently learning 𝐂𝐨𝐝𝐢𝐧𝐠
 
@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit0481&show_icons=true&locale=en&layout=compact" alt="sumit0481" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUMIT0481&show_icons=true&locale=en&layout=compact" alt="SUMIT0481" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit0481&show_icons=true&locale=en" alt="sumit0481" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SUMIT0481&show_icons=true&locale=en" alt="SUMIT0481" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit0481&" alt="sumit0481" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUMIT0481&" alt="SUMIT0481" /></p>
